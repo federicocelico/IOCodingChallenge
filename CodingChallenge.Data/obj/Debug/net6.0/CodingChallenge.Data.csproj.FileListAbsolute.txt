@@ -1,0 +1,15 @@
+C:\Fede\Challenge\CodingChallenge\CodingChallenge.Data\bin\Debug\net6.0\CodingChallenge.Data.deps.json
+C:\Fede\Challenge\CodingChallenge\CodingChallenge.Data\bin\Debug\net6.0\CodingChallenge.Data.dll
+C:\Fede\Challenge\CodingChallenge\CodingChallenge.Data\bin\Debug\net6.0\CodingChallenge.Data.pdb
+C:\Fede\Challenge\CodingChallenge\CodingChallenge.Data\obj\Debug\net6.0\CodingChallenge.Data.csproj.AssemblyReference.cache
+C:\Fede\Challenge\CodingChallenge\CodingChallenge.Data\obj\Debug\net6.0\CodingChallenge.Data.Idiomas.en.resources
+C:\Fede\Challenge\CodingChallenge\CodingChallenge.Data\obj\Debug\net6.0\CodingChallenge.Data.Idiomas.es.resources
+C:\Fede\Challenge\CodingChallenge\CodingChallenge.Data\obj\Debug\net6.0\CodingChallenge.Data.csproj.GenerateResource.cache
+C:\Fede\Challenge\CodingChallenge\CodingChallenge.Data\obj\Debug\net6.0\CodingChallenge.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fede\Challenge\CodingChallenge\CodingChallenge.Data\obj\Debug\net6.0\CodingChallenge.Data.AssemblyInfoInputs.cache
+C:\Fede\Challenge\CodingChallenge\CodingChallenge.Data\obj\Debug\net6.0\CodingChallenge.Data.AssemblyInfo.cs
+C:\Fede\Challenge\CodingChallenge\CodingChallenge.Data\obj\Debug\net6.0\CodingChallenge.Data.csproj.CoreCompileInputs.cache
+C:\Fede\Challenge\CodingChallenge\CodingChallenge.Data\obj\Debug\net6.0\CodingChallenge.Data.dll
+C:\Fede\Challenge\CodingChallenge\CodingChallenge.Data\obj\Debug\net6.0\refint\CodingChallenge.Data.dll
+C:\Fede\Challenge\CodingChallenge\CodingChallenge.Data\obj\Debug\net6.0\CodingChallenge.Data.pdb
+C:\Fede\Challenge\CodingChallenge\CodingChallenge.Data\obj\Debug\net6.0\ref\CodingChallenge.Data.dll
